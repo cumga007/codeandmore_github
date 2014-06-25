@@ -1,7 +1,1 @@
-<?php
-
-echo 'line 1';
-
-echo 'line 2';
-
-?>
+hê hê hê
