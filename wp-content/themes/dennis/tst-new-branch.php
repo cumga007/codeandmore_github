@@ -8,6 +8,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
+<<<<<<< HEAD
 	jflksdjfdslf
+=======
+	<h1>About us</h1>
+>>>>>>> origin/dennis
 </body>
 </html>
