@@ -1,1 +1,1 @@
-hê hê hê
+<?php // gì vậy??? !!!#> KJDSJFLDSF? >
